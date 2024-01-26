@@ -1,3 +1,4 @@
+pip==23.3.2
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
@@ -16,10 +17,9 @@ numpy==1.19.3
 pandas==1.1.5
 pickle-mixin==1.0.2
 Pillow==8.1.2
-pip==23.3.2
 pyparsing==2.4.7
 python-dateutil==2.8.1
-python-slugify==3.10.13
+python-slugify==3.9.13
 pytz==2021.1
 requests==2.25.1
 scikit-learn==0.24.1
