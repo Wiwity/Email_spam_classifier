@@ -5,11 +5,9 @@ app = Flask(__name__)
 cv = pickle.load(open("model/cv.pkl", 'rb'))
 clf = pickle.load(open("model/clf.pkl", 'rb'))
 
-
 @app.route('/')
 def index():
     return render_template("index.html")
-
 
 @app.route('/predict', methods=['post'])
 def predict():
