@@ -9,7 +9,7 @@ cachetools==5.3.2
 catboost==1.2.2
 certifi==2020.12.5
 clyent==1.2.1
-conda-build==3.24.0
+conda-build==2.1.5
 conda-repo-cli==1.0.5
 conda-verify==3.4.2
 constantly==15.1.0
