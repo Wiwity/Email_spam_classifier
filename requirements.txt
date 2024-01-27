@@ -24,5 +24,5 @@ pyls-spyder==0.4.0
 PyQt5==5.15.7
 PyQtWebEngine==5.15.4
 python-lsp-jsonrpc==1.0.0
-scikit-learn-intelex==20230426.122314
+scikit-learn-intelex==2023.2.1
 scipy==1.10.1
