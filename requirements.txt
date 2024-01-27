@@ -2,7 +2,6 @@ pip==23.3.2
 cachetools==5.3.2
 certifi==2020.12.5
 clyent==1.2.1
-conda-build==4.0.0
 cycler==0.10.0
 gunicorn==21.2.0
 html5lib==1.1
@@ -10,7 +9,6 @@ inflection==0.5.1
 jsonpointer==2.1
 libclang==16.0.6
 nbformat==4.2.0
-pep8==1.7.1
 pickle-mixin==1.0.2
 Pillow==9.4.0
 ply==3.11
