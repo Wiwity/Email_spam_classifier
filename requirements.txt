@@ -2,7 +2,7 @@ pip==23.3.2
 cachetools==5.3.2
 certifi==2020.12.5
 clyent==1.2.1
-conda-build==2.1.5
+conda-build==4.0.0
 cycler==0.10.0
 gunicorn==21.2.0
 html5lib==1.1
